@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "postinstall": "typings install"
+  },
+  "dependencies": {
+    "@types/node": "^12.12.17"
+  }
+}
