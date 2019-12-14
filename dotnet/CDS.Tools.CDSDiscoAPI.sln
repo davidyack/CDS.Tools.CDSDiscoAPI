@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CDS.Tools.CDSDiscoAPI", "CDS.Tools.CDSDiscoAPI\CDS.Tools.CDSDiscoAPI.csproj", "{412D64A6-9516-4337-8877-CC29F0D721AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDS.Tools.CDSDiscoAPITest", "CDS.Tools.CRMDiscoAPITest\CDS.Tools.CDSDiscoAPITest.csproj", "{3C1FE829-0AA8-4411-B8BB-FFE7AFBAB024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{412D64A6-9516-4337-8877-CC29F0D721AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412D64A6-9516-4337-8877-CC29F0D721AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412D64A6-9516-4337-8877-CC29F0D721AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412D64A6-9516-4337-8877-CC29F0D721AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1FE829-0AA8-4411-B8BB-FFE7AFBAB024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1FE829-0AA8-4411-B8BB-FFE7AFBAB024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1FE829-0AA8-4411-B8BB-FFE7AFBAB024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1FE829-0AA8-4411-B8BB-FFE7AFBAB024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {227D188C-9722-4E32-99F7-129093FD5A0B}
+	EndGlobalSection
+EndGlobal
