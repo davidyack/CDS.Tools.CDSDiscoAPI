@@ -17,8 +17,7 @@ namespace CDS.Tools.DiscoAPI.Results
         public string Url { get; set; }
         public string ApiUrl { get; set; }
         public DateTime LastUpdated { get; set; }
-
-        public Guid? EnvironmentId { get; set; }
+        public string EnvironmentId { get; set; }
         public bool IsUserSysAdmin { get; set; }
         public Guid TenantId { get; set; }
 
